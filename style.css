@@ -376,6 +376,10 @@ section .title::after{
 .skills-content .right .java::before{
     width: 65%;
 }
+.skills-content .right .spring::before{
+    width: 45%;
+}
+
 .skills-content .right .js::before{
     width: 45%;
 }
