@@ -381,8 +381,30 @@ section .title::after{
     top: 0;
     background: crimson;
 }
+<<<<<<< HEAD
 .soc-icon{
     font-size: 0px;
+=======
+
+.skills-content .right .java::before{
+    width: 65%;
+}
+.skills-content .right .spring::before{
+    width: 45%;
+}
+
+.skills-content .right .js::before{
+    width: 45%;
+}
+.skills-content .right .php::before{
+    width: 70%;
+}
+.skills-content .right .python::before{
+    width: 55%;
+}
+.skills-content .right .mysql::before{
+    width: 90%;
+>>>>>>> a3761054897009222166e2ace3b397ef39564fa0
 }
 
 /*-----------------------------------------------
